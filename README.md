@@ -1,2 +1,2 @@
-# Tasa-de-mortalidad-adolescente
-Evaluación de la tasa de mortalidad en adolescentes (10 - 19 años)
+# Hepatitis-cases-and-deaths
+evaluación de casos y muertes de la hepatitis a nivel mundial
